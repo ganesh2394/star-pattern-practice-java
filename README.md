@@ -103,12 +103,14 @@ This repository covers the following categories of patterns:
 
 8. **Triangle Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/15842fc5200ef42842f46cf8cc305a42)
+
 ```
            *
            **
            ***
            ****
+           *****
 ```
 
 9. **Pyramid Star Pattern** 
