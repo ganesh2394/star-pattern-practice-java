@@ -31,6 +31,7 @@ It is great for beginners to learn **nested loops**, **pattern logic**, and **ba
    ```bash
    javac file_name.java
    java file_name
+   ```
 
 ## 🧩 Pattern Types
 
@@ -46,54 +47,66 @@ This repository covers the following categories of patterns:
 ****
 ****
 ```
+
 2. **Hollow Square Star Pattern**
 
 [See Code Here]()
+
 ```
 ****
 *  *
 *  *
 ****
 ```
+
 3. **Rhombus Star Pattern**
 
 [See Code Here]()
+
 ```
 ****
  ****
   ****
    ****
 ```
+
 4. **Rectangle Star Pattern**
 
 [See Code Here]()
+
 ```
 ******
 ******
 ******
 ******
 ```
+
 5. **Hollow Rectangle Star Pattern**
 
 [See Code Here]()
+
 ```
            ******
            *    *
            *    *
            ******
 ```
+
 6. **Parallelogram Star Pattern**
 
 [See Code Here]()
+
 ```
            ******
             ******
              ******
               ******
 ```
+
 7. **Mirrored Rhombus Star Pattern**
 
 [See Code Here]()
+
 ```
            ****
           ****
@@ -113,45 +126,54 @@ This repository covers the following categories of patterns:
            *****
 ```
 
-9. **Pyramid Star Pattern** 
+9. **Pyramid Star Pattern**
 
 [See Code Here]()
+
 ```
               *
              ***
             *****
            *******
 ```
+
 10. **Hollow Pyramid Star Pattern**
 
 [See Code Here]()
+
 ```
               *
              * *
             *   *
            *******
 ```
+
 11. **Inverted Pyramid Star Pattern**
 
 [See Code Here]()
+
 ```
            *******
             *****
              ***
               *
 ```
+
 12. **Inverted Hollow Pyramid Star Pattern**
 
 [See Code Here]()
+
 ```
            *******
             *   *
              * *
               *
 ```
-13. **Half Diamond Star Pattern** 
+
+13. **Half Diamond Star Pattern**
 
 [See Code Here]()
+
 ```
            *
            **
@@ -161,9 +183,11 @@ This repository covers the following categories of patterns:
            **
            *
 ```
+
 14. **Half Diamond Star Pattern**
 
 [See Code Here]()
+
 ```
               *
              **
@@ -173,9 +197,11 @@ This repository covers the following categories of patterns:
              **
               *
 ```
+
 15. **Diamond Star Pattern**
 
 [See Code Here]()
+
 ```
              *
             ***
@@ -185,35 +211,42 @@ This repository covers the following categories of patterns:
             ***
              *
 ```
+
 16. **Basic Square 1 Pattern**
 
 [See Code Here]()
+
 ```
            1111
            1111
            1111
            1111
 ```
+
 17. **Basic Square Increasing 1 Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/153bd577606aa2e7e15fe28cf7431fca)
+
 ```
            1111
            2222
            3333
            4444
 ```
+
 18. **Internal Varsity Square Pattern**
 
 [See Code Here]()
+
 ```
            333
            313
            323
            333
 ```
+
 19. **Basic Right Triangle Number Pattern**
-[See Code Here](https://gist.github.com/ganesh2394/039f43284086f0b339c0f6d8c5697e67)
+    [See Code Here](https://gist.github.com/ganesh2394/039f43284086f0b339c0f6d8c5697e67)
 
 ```
            1
@@ -221,18 +254,22 @@ This repository covers the following categories of patterns:
            456
            78910
 ```
+
 20. **Basic Right Triangle Number Pattern (Inverted)**
 
 [See Code Here]()
+
 ```
            10987
            456
            32
            1
 ```
+
 21. **Basic incrementing Triangle Pattern initialised = 3**
 
 [See Code Here]()
+
 ```
            6666
            555
@@ -241,7 +278,8 @@ This repository covers the following categories of patterns:
 ```
 
 Another Pattern List :-
-- **Pattern 01** 
+
+- **Pattern 01**
 
 [See Code Here](https://gist.github.com/ganesh2394/2a868190bc7badc919860e93fcc1388d)
 
@@ -252,6 +290,7 @@ Another Pattern List :-
   ****
  *****
 ```
+
 - **Pattern 02**
 
 [See Code Here](https://gist.github.com/ganesh2394/f56cc5df53ba4b2101e57938f9039c94)
@@ -263,6 +302,7 @@ Another Pattern List :-
 **
 *
 ```
+
 - **Pattern 03**
 
 [See Code Here](https://gist.github.com/ganesh2394/7915021b7915359902b310cbe7a81697)
