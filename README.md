@@ -214,7 +214,7 @@ This repository covers the following categories of patterns:
 
 16. **Basic Square 1 Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/b26cd1ceb789241777196f2ae074f393)
 
 ```
            1111
