@@ -253,7 +253,8 @@ Another Pattern List :-
 ```
 - **Pattern 02**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/f56cc5df53ba4b2101e57938f9039c94)
+
 ```
 *****
 ****
