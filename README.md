@@ -1,4 +1,4 @@
-# star-pattern-practice-java
+# ⭐ Star Pattern Practice in Java
 
 This repository contains Java programs to print various star (`*`) patterns.  
 It is great for beginners to learn **nested loops**, **pattern logic**, and **basic Java syntax**.
@@ -61,7 +61,7 @@ This repository covers the following categories of patterns:
 
 3. **Rhombus Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/6dab4f6e41ddac831dbb857f892b48aa)
 
 ```
 ****
@@ -94,7 +94,7 @@ This repository covers the following categories of patterns:
 
 6. **Parallelogram Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/dd1a301c97fae95a172f1007e3d00bcf)
 
 ```
            ******
@@ -105,7 +105,7 @@ This repository covers the following categories of patterns:
 
 7. **Mirrored Rhombus Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/a0b7837c47fc7b61a034c9c4a109356f)
 
 ```
            ****
@@ -150,7 +150,7 @@ This repository covers the following categories of patterns:
 
 11. **Inverted Pyramid Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/9b83c73c280dc285df0358d98e8a3845)
 
 ```
            *******
@@ -236,7 +236,7 @@ This repository covers the following categories of patterns:
 
 18. **Internal Varsity Square Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/f4a9aac34d27bd8370663caffd182222)
 
 ```
            333
@@ -257,7 +257,7 @@ This repository covers the following categories of patterns:
 
 20. **Basic Right Triangle Number Pattern (Inverted)**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/41c3a3109358b7bc50701e1d223eb7ff) : TODO
 
 ```
            10987
@@ -268,7 +268,7 @@ This repository covers the following categories of patterns:
 
 21. **Basic incrementing Triangle Pattern initialised = 3**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/65a84bfbe23f59326d6ae2cf233550fe)
 
 ```
            6666
