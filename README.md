@@ -264,7 +264,8 @@ Another Pattern List :-
 ```
 - **Pattern 03**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/7915021b7915359902b310cbe7a81697)
+
 ```
 *****
  ****
