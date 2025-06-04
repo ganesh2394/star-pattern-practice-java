@@ -242,7 +242,8 @@ This repository covers the following categories of patterns:
 Another Pattern List :-
 - **Pattern 01** 
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/2a868190bc7badc919860e93fcc1388d)
+
 ```
      *
     **
