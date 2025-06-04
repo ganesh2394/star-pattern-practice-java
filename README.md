@@ -128,7 +128,7 @@ This repository covers the following categories of patterns:
 
 9. **Pyramid Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/6367c36f4f32925af5680c91ef6ea549)
 
 ```
               *
