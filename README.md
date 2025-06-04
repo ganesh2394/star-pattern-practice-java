@@ -213,7 +213,8 @@ This repository covers the following categories of patterns:
            333
 ```
 19. **Basic Right Triangle Number Pattern**
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/039f43284086f0b339c0f6d8c5697e67)
+
 ```
            1
            23
