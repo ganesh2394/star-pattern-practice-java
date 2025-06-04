@@ -50,7 +50,7 @@ This repository covers the following categories of patterns:
 
 2. **Hollow Square Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/b2515b4835c828e60f59b45795fe1456)
 
 ```
 ****
@@ -83,7 +83,7 @@ This repository covers the following categories of patterns:
 
 5. **Hollow Rectangle Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/963af57db80f65a56b2f4ff45f6af8be)
 
 ```
            ******
@@ -139,7 +139,7 @@ This repository covers the following categories of patterns:
 
 10. **Hollow Pyramid Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/1404275b45683a69eb5db1b1794ab987)
 
 ```
               *
@@ -161,7 +161,7 @@ This repository covers the following categories of patterns:
 
 12. **Inverted Hollow Pyramid Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/b0b1c88ae720e11c4e0c8f224c48b881)
 
 ```
            *******
