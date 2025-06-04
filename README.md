@@ -72,7 +72,7 @@ This repository covers the following categories of patterns:
 
 4. **Rectangle Star Pattern**
 
-[See Code Here]()
+[See Code Here](https://gist.github.com/ganesh2394/7e997f95e3381a33b299a5f901c64917)
 
 ```
 ******
