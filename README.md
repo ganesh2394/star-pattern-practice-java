@@ -38,7 +38,7 @@ This repository covers the following categories of patterns:
 
 1. **Square Star Pattern**
 
-[See Code Here](https://gist.github.com/ganesh2394/96e6b9083c313456c163bd6fe06642c6)
+[See Code Here](./Patterns-Problems/Pattern01.java)
 
 ```
 ****
@@ -48,7 +48,7 @@ This repository covers the following categories of patterns:
 ```
 2. **Hollow Square Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern02.java)
 ```
 ****
 *  *
@@ -57,7 +57,7 @@ This repository covers the following categories of patterns:
 ```
 3. **Rhombus Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern03.java)
 ```
 ****
  ****
@@ -66,7 +66,7 @@ This repository covers the following categories of patterns:
 ```
 4. **Rectangle Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern04.java)
 ```
 ******
 ******
@@ -75,7 +75,7 @@ This repository covers the following categories of patterns:
 ```
 5. **Hollow Rectangle Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern05.java)
 ```
            ******
            *    *
@@ -84,7 +84,7 @@ This repository covers the following categories of patterns:
 ```
 6. **Parallelogram Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern06.java)
 ```
            ******
             ******
@@ -93,7 +93,7 @@ This repository covers the following categories of patterns:
 ```
 7. **Mirrored Rhombus Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern07.java)
 ```
            ****
           ****
@@ -103,7 +103,7 @@ This repository covers the following categories of patterns:
 
 8. **Triangle Star Pattern**
 
-[See Code Here](https://gist.github.com/ganesh2394/15842fc5200ef42842f46cf8cc305a42)
+[See Code Here](./Patterns-Problems/Pattern08.java)
 
 ```
            *
@@ -115,7 +115,7 @@ This repository covers the following categories of patterns:
 
 9. **Pyramid Star Pattern** 
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern09.java)
 ```
               *
              ***
@@ -124,7 +124,7 @@ This repository covers the following categories of patterns:
 ```
 10. **Hollow Pyramid Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern10.java)
 ```
               *
              * *
@@ -133,7 +133,7 @@ This repository covers the following categories of patterns:
 ```
 11. **Inverted Pyramid Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern11.java)
 ```
            *******
             *****
@@ -142,7 +142,7 @@ This repository covers the following categories of patterns:
 ```
 12. **Inverted Hollow Pyramid Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern12.java)
 ```
            *******
             *   *
@@ -151,7 +151,7 @@ This repository covers the following categories of patterns:
 ```
 13. **Half Diamond Star Pattern** 
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern13.java)
 ```
            *
            **
@@ -163,7 +163,7 @@ This repository covers the following categories of patterns:
 ```
 14. **Half Diamond Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern14.java)
 ```
               *
              **
@@ -175,7 +175,7 @@ This repository covers the following categories of patterns:
 ```
 15. **Diamond Star Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern15.java)
 ```
              *
             ***
@@ -187,7 +187,7 @@ This repository covers the following categories of patterns:
 ```
 16. **Basic Square 1 Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern16.java)
 ```
            1111
            1111
@@ -196,7 +196,7 @@ This repository covers the following categories of patterns:
 ```
 17. **Basic Square Increasing 1 Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern17.java)
 ```
            1111
            2222
@@ -205,7 +205,7 @@ This repository covers the following categories of patterns:
 ```
 18. **Internal Varsity Square Pattern**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern18.java)
 ```
            333
            313
@@ -213,7 +213,7 @@ This repository covers the following categories of patterns:
            333
 ```
 19. **Basic Right Triangle Number Pattern**
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern19.java)
 ```
            1
            23
@@ -222,7 +222,7 @@ This repository covers the following categories of patterns:
 ```
 20. **Basic Right Triangle Number Pattern (Inverted)**
 
-[See Code Here]()
+[See Code Here]() : _TODO_
 ```
            10987
            456
@@ -231,7 +231,7 @@ This repository covers the following categories of patterns:
 ```
 21. **Basic incrementing Triangle Pattern initialised = 3**
 
-[See Code Here]()
+[See Code Here](./Patterns-Problems/Pattern21.java)
 ```
            6666
            555
@@ -242,7 +242,7 @@ This repository covers the following categories of patterns:
 Another Pattern List :-
 - **Pattern 01** 
 
-[See Code Here](https://gist.github.com/ganesh2394/2a868190bc7badc919860e93fcc1388d)
+[See Code Here](./Patterns-Problems/AnotherPattern01.java)
 
 ```
      *
@@ -253,7 +253,7 @@ Another Pattern List :-
 ```
 - **Pattern 02**
 
-[See Code Here](https://gist.github.com/ganesh2394/f56cc5df53ba4b2101e57938f9039c94)
+[See Code Here](./Patterns-Problems/AnotherPattern02.java)
 
 ```
 *****
@@ -264,7 +264,7 @@ Another Pattern List :-
 ```
 - **Pattern 03**
 
-[See Code Here](https://gist.github.com/ganesh2394/7915021b7915359902b310cbe7a81697)
+[See Code Here](./Patterns-Problems/AnotherPattern03.java)
 
 ```
 *****
