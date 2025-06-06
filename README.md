@@ -1,4 +1,4 @@
-# star-pattern-practice-java
+# ⭐ Star Pattern Practice in Java
 
 This repository contains Java programs to print various star (`*`) patterns.  
 It is great for beginners to learn **nested loops**, **pattern logic**, and **basic Java syntax**.
@@ -31,6 +31,7 @@ It is great for beginners to learn **nested loops**, **pattern logic**, and **ba
    ```bash
    javac file_name.java
    java file_name
+   ```
 
 ## 🧩 Pattern Types
 
@@ -46,54 +47,60 @@ This repository covers the following categories of patterns:
 ****
 ****
 ```
+
 2. **Hollow Square Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern02.java)
+[See Code Here]()
 ```
 ****
 *  *
 *  *
 ****
 ```
+
 3. **Rhombus Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern03.java)
+[See Code Here]()
 ```
 ****
  ****
   ****
    ****
 ```
+
 4. **Rectangle Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern04.java)
+[See Code Here]()
 ```
 ******
 ******
 ******
 ******
 ```
+
 5. **Hollow Rectangle Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern05.java)
+[See Code Here]()
 ```
            ******
            *    *
            *    *
            ******
 ```
+
 6. **Parallelogram Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern06.java)
+[See Code Here]()
 ```
            ******
             ******
              ******
               ******
 ```
+
 7. **Mirrored Rhombus Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern07.java)
+[See Code Here]()
 ```
            ****
           ****
@@ -113,45 +120,49 @@ This repository covers the following categories of patterns:
            *****
 ```
 
-9. **Pyramid Star Pattern** 
+9. **Pyramid Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern09.java)
+[See Code Here]()
 ```
               *
              ***
             *****
            *******
 ```
+
 10. **Hollow Pyramid Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern10.java)
+[See Code Here]()
 ```
               *
              * *
             *   *
            *******
 ```
+
 11. **Inverted Pyramid Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern11.java)
+[See Code Here]()
 ```
            *******
             *****
              ***
               *
 ```
+
 12. **Inverted Hollow Pyramid Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern12.java)
+[See Code Here]()
 ```
            *******
             *   *
              * *
               *
 ```
-13. **Half Diamond Star Pattern** 
 
-[See Code Here](./Patterns-Problems/Pattern13.java)
+13. **Half Diamond Star Pattern**
+
+[See Code Here]()
 ```
            *
            **
@@ -161,9 +172,10 @@ This repository covers the following categories of patterns:
            **
            *
 ```
+
 14. **Half Diamond Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern14.java)
+[See Code Here]()
 ```
               *
              **
@@ -173,9 +185,10 @@ This repository covers the following categories of patterns:
              **
               *
 ```
+
 15. **Diamond Star Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern15.java)
+[See Code Here]()
 ```
              *
             ***
@@ -185,53 +198,59 @@ This repository covers the following categories of patterns:
             ***
              *
 ```
+
 16. **Basic Square 1 Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern16.java)
+[See Code Here]()
 ```
            1111
            1111
            1111
            1111
 ```
+
 17. **Basic Square Increasing 1 Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern17.java)
+[See Code Here]()
 ```
            1111
            2222
            3333
            4444
 ```
+
 18. **Internal Varsity Square Pattern**
 
-[See Code Here](./Patterns-Problems/Pattern18.java)
+[See Code Here]()
 ```
            333
            313
            323
            333
 ```
+
 19. **Basic Right Triangle Number Pattern**
-[See Code Here](./Patterns-Problems/Pattern19.java)
+[See Code Here]()
 ```
            1
            23
            456
            78910
 ```
+
 20. **Basic Right Triangle Number Pattern (Inverted)**
 
-[See Code Here]() : _TODO_
+[See Code Here]()
 ```
            10987
            456
            32
            1
 ```
+
 21. **Basic incrementing Triangle Pattern initialised = 3**
 
-[See Code Here](./Patterns-Problems/Pattern21.java)
+[See Code Here]()
 ```
            6666
            555
@@ -240,7 +259,8 @@ This repository covers the following categories of patterns:
 ```
 
 Another Pattern List :-
-- **Pattern 01** 
+
+- **Pattern 01**
 
 [See Code Here](./Patterns-Problems/AnotherPattern01.java)
 
@@ -251,6 +271,7 @@ Another Pattern List :-
   ****
  *****
 ```
+
 - **Pattern 02**
 
 [See Code Here](./Patterns-Problems/AnotherPattern02.java)
@@ -262,6 +283,7 @@ Another Pattern List :-
 **
 *
 ```
+
 - **Pattern 03**
 
 [See Code Here](./Patterns-Problems/AnotherPattern03.java)
